@@ -16,8 +16,7 @@ public class Main {
         Person person4 = new Person("ousmane", "Diop", 45, true);
         person3.status();
         person4.status();
-        person1.status();
-        person2.status();
+
 
     }
 }
